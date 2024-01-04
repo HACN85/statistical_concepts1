@@ -7,4 +7,6 @@ Hello There! 👋🏾
 🔦 Ultimately, these concepts serve as guides, unraveling the mysteries within data. They facilitate informed decisions and offer actionable insights. Embracing them with relatable examples acts as the bridge between theory and real-world application in statistics and data analysis.
 #DataDecoding #PracticalStatsExamples #statistics #python #excel #vba
 
+Combinatorial Analysis.pdf: https://github.com/HACN85/statistical_concepts1/blob/a55f7aac270f4a8bdee28c36d73544e243548931/Combinatorial%20Analysis.pdf
+
 Cheers, mate!
